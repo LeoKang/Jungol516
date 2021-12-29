@@ -6,7 +6,7 @@ public class Main {
 		double d1 = sc.nextDouble();
 		double d2 = sc.nextDouble();
 //		String c = sc.next();
-		char c = sc.next().charAt(0);
+//		char c = sc.next().charAt(0);
 		//---------------------
 		String str = sc.next();
 		char c1 = str.charAt(0);
@@ -20,7 +20,7 @@ public class Main {
 
 		System.out.printf("%.2f\n", d1);
 		System.out.printf("%.2f\n", d2);
-		System.out.println(c);
+		System.out.println(c1);
 	}
 
 }
